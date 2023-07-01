@@ -1,0 +1,40 @@
+.footer {
+    background-color: var(--container-color);
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.footer__container {
+    padding: 1rem 0 1rem;
+}
+
+
+.footer__copy {
+    display: block;
+    margin-top: rem;
+    color: var(--title-color);
+    text-align: center;
+    font-size: var(--smaller-fo1nt-size);
+}
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+    .footer__social-link {
+        padding: 0.25rem;
+        border-radius: 0.25rem;
+        font-size: 1rem;
+    }
+  }
+  
+  /* For medium devices */
+  @media screen and (max-width: 768px) {
+    
+  }
+  
+  @media screen and (max-width: 576px) {
+  }
+  
+  /* For small devices */
+  @media screen and (max-width: 350px) {
+    
+  }

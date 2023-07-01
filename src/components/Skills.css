@@ -1,0 +1,65 @@
+@media screen and (max-width: 768px) {
+    .resp-skills{
+        padding-top: 7rem;
+        padding-bottom: 6rem;
+    }
+}
+
+.htmlbtn:hover{
+    background: #cc4a04c1;
+    box-shadow: 0 0 5px #cc4a04, 0 0 25px #cc4a04, 0 0 50px #cc4a04, 0 0 20px #cc4a04;
+}
+
+.cssbtn:hover{
+    background: #158bfab3;
+    box-shadow: 0 0 5px #158bfa, 0 0 25px #158bfa, 0 0 50px #158bfa, 0 0 20px #158bfa;
+}
+
+.jsbtn:hover{
+    background: #cc9004b3;
+    box-shadow: 0 0 5px #cc9004, 0 0 25px #cc9004, 0 0 50px #cc9004, 0 0 20px #cc9004;
+}
+.reactbtn:hover{
+    background: #15eefab3;
+    box-shadow: 0 0 5px #15c1fa, 0 0 25px #15c1fa, 0 0 50px #15c1fa, 0 0 20px #15c1fa;
+}
+
+.phpbtn:hover{
+    background: #6515fab3;
+    box-shadow: 0 0 5px #6515fa, 0 0 25px #6515fa, 0 0 50px #6515fa, 0 0 20px #6515fa;
+}
+
+.sqlbtn:hover{
+    background: #6b6870b3;
+    box-shadow: 0 0 5px #6b6870, 0 0 25px #6b6870, 0 0 50px #6b6870, 0 0 20px #6b6870;
+}
+
+.cbtn:hover{
+    background: #e3fa15b3;
+    box-shadow: 0 0 5px #e3fa15, 0 0 25px #e3fa15, 0 0 50px #e3fa15, 0 0 20px #e3fa15;
+}
+
+.dsabtn:hover{
+    background: #15fa80b3;
+    box-shadow: 0 0 5px #15fa80, 0 0 25px #15fa80, 0 0 50px #15fa80, 0 0 20px #15fa80;
+}
+
+.psbtn:hover{
+    background: #3715fab3;
+    box-shadow: 0 0 5px #3715fa, 0 0 25px #3715fa, 0 0 50px #3715fa, 0 0 20px #3715fa;
+}
+
+.dbmsbtn:hover{
+    background: #fa8f15b3;
+    box-shadow: 0 0 5px #fa8f15, 0 0 25px #fa8f15, 0 0 50px #fa8f15, 0 0 20px #fa8f15;
+}
+
+.osbtn:hover{
+    background: #15fa3bb3;
+    box-shadow: 0 0 5px #15fa3b, 0 0 25px #15fa3b, 0 0 50px #15fa3b, 0 0 20px #15fa3b;
+}
+
+.cnbtn:hover{
+    background: #fa15b5b3;
+    box-shadow: 0 0 5px #fa15b5, 0 0 25px #fa15b5, 0 0 50px #fa15b5, 0 0 20px #fa15b5;
+}
